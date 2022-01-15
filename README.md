@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eduardosancho
 - 👀 I’m interested in ... mechatronics, diy projects and entrepeneurship.
 - 🌱 I’m currently learning ... agriculture and programming.
-- 💞️ I’m looking to collaborate on ... Augmented Reality and Data Analysis.
+- 💞️ I’m looking to collaborate on ... Web Development.
 - 📫 How to reach me ... edsancho18@yahoo.es
 
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardosancho)](https://github.com/eduardosancho/github-readme-stats)
