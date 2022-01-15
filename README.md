@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @eduardosancho
+# 👋 Hi, I’m @eduardosancho
+
+![banner](https://github.com/eduardosancho/eduardosancho/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true)
+
 - 👀 I’m interested in ... mechatronics, diy projects and entrepeneurship.
 - 🌱 I’m currently learning ... agriculture and programming.
 - 💞️ I’m looking to collaborate on ... Web Development.
