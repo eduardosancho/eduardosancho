@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @eduardosancho <img src="https://media.giphy.com/media/l0MYKtrxlkiYE596g/giphy.gif" width="70">
+# 👋 Hello, glad you're here <img src="https://media.giphy.com/media/l0MYKtrxlkiYE596g/giphy.gif" width="70">
 
 ![banner](https://github.com/eduardosancho/eduardosancho/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true)
 
@@ -64,7 +64,7 @@ gatsbyjs
 
 <hr>
 
-### Contact Me 🤝🏻
+<h2 align="center"> Contact Me 🤝🏻 </h2>
 <p align="center">
 &nbsp; <a href="https://twitter.com/sanchitoblog" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/eduardo-sancho-solano-043641181/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
