@@ -1,6 +1,6 @@
 # 👋 Hello, glad you're here <img src="https://media.giphy.com/media/l0MYKtrxlkiYE596g/giphy.gif" width="70">
 
-![banner](https://github.com/eduardosancho/eduardosancho/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true)
+![banner](https://github.com/eduardosancho/eduardosancho/blob/main/Simple%20Work%20LinkedIn%20Banner%20(3).png?raw=true)
 
 <hr>
 
