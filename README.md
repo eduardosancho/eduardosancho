@@ -6,11 +6,10 @@
 
 ### About me
 
-- 👀 Interested in making videogames, DIY projects and entrepreneurship.
-- 🌱 Currently learning Test Driven Development, Data Algorithms, and Ruby.
-- 💞️ Looking to collaborate on Web Development and Computer Vision.
+- 👀 Interested in videogame development, DIY projects and entrepreneurship.
+- 🌱 Currently learning AWS, Docker and Kubernetes.
+- 💞️ Looking to collaborate on Web Development and Robotics.
 - 📫 You can reach me through my email: edsancho18@yahoo.es
-- 💼 I'm open for hire
 
 <hr>
 
