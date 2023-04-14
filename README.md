@@ -9,7 +9,7 @@
 - 👀 Interested in videogame development, DIY projects and entrepreneurship.
 - 🌱 Currently learning AWS, Docker and Kubernetes.
 - 💞️ Looking to collaborate on Web Development and Robotics.
-- 📫 You can reach me through my email: edsancho18@yahoo.es
+- 📫 You can reach me through my email: contact@eduardosancho.com
 
 <hr>
 
