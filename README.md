@@ -6,9 +6,9 @@
 
 ### About me
 
-- 👀 Interested in videogame development, DIY projects and entrepreneurship.
-- 🌱 Currently learning AWS, Docker and Kubernetes.
-- 💞️ Looking to collaborate on Web Development and Robotics.
+- 👀 Interested in travel, coffee and languages.
+- 🌱 Currently learning AWS and R for data analytics.
+- 💞️ Always happy to collaborate on Web Development and Robotics.
 - 📫 You can reach me through my email: contact@eduardosancho.com
 
 <hr>
