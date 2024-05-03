@@ -5,11 +5,25 @@
 <hr>
 
 ### About me
+🏖️ A warm welcome to you reading this!
 
-- 👀 Interested in travel, coffee and japanese.
-- 🌱 Currently learning AWS and Kubernetes.
-- 💞️ Always happy to help.
-- 📫 You can reach me through my email: contact@eduardosancho.com
+👋 I'm Eduardo, a seasoned software engineer with a knack for innovation and a passion for making a difference. With over 5 years of experience in software development, on a daily basis I work with Ruby on Rails, React, and PostgreSQL, crafting solutions that drive impact across various industries.
+
+🛠️ In my previous role as a Mechatronics Engineer and Project Manager, I specialized in designing automation machinery for diverse sectors including food and agriculture, transport and packaging, medical devices, and manufacturing. Now, as I'm on the cusp of completing my MBA, I'm gearing up to bring my expertise to new heights.
+
+🎸 Outside of the tech realm, you'll often find me strumming away on my guitar or wandering through the woods, soaking in nature's beauty. I'm a polyglot, fluent in Spanish, English, and German, and currently immersing myself in the world of Japanese language and culture. When I'm not exploring new languages, I indulge in my love for old movies and lore-rich video games.
+
+🌟 Whether it's through my code or my interactions with others, I'm driven by a desire to make a positive impact. I believe in approaching every challenge with humility, kindness, and a smile, recognizing the power of empathy and understanding. After all, good ideas are only as valuable as the actions they inspire.
+
+💡 Aspiring to inspire, advise, and lend a helping hand, I'm here to share insights, offer guidance, and roll up my sleeves to tackle any project head-on. Let's connect and collaborate on making meaningful change together!
+
+contact@eduardosancho.com
+
+My Toolkit:
+- 🦸 Front-End: React, Redux, BootStrap, SCSS, TypeScript.
+- 👨‍🔧 Back-End: Ruby on Rails, NodeJS, PostgreSQL, Java, Python.
+- ☁️ DevOps: Kubernetes, Docker and AWS.
+- 🐙 Other Tools: GitHub, Jira, Figma.
 
 <hr>
 
